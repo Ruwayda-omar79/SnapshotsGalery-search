@@ -11,6 +11,7 @@ import React from 'react'
               height="200" width="250" alt={image.title} />
               <h5>image sizes</h5>
 
+
               
             </div>
         </div>)}
